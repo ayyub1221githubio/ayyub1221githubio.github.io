@@ -1,0 +1,15 @@
+
+body {
+	background-color:#44D7A8;
+}
+h1 { 
+  font-size:40pt;
+  color:#44D7A8;
+  font-family:fantasy;
+  text-align:center;
+  border: 2pt solid black;
+  background-color:black;
+}
+p{ 
+   font-size:10pt;
+}
